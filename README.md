@@ -1,5 +1,5 @@
-# Repositorio do Desafio de Projeto sobre Git/Git Hub da Digital Innovation One
-Repositorio criado para o desafio de projeto
+# Repositório do Desafio de Projeto sobre Git/Git Hub da Digital Innovation One
+Repositório criado para o desafio de projeto
 
 ## Links Uteis 
 
